@@ -22,7 +22,7 @@ Follow these steps to set up and run the project:
 <div align="center">
     <img src="./screenshot_userlist.png" alt="Image 1" width="300" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./screenshot_user_detail.png" alt="Image 2" width="300" />
+    <img src="./screenshot_userdetail.png" alt="Image 2" width="300" />
 </div>
 
 # Architecture Overview

@@ -129,7 +129,6 @@
 		8C0FD48A2D224BCD006C382F /* GitHubViewer */ = {
 			isa = PBXGroup;
 			children = (
-				8C0FD4BD2D225516006C382F /* Networking */,
 				8C0FD4BC2D225505006C382F /* App */,
 				8C0FD4B12D224EAF006C382F /* Common */,
 				8C0FD4A92D224DCC006C382F /* Domain */,
@@ -198,6 +197,7 @@
 		8C0FD4A72D224D47006C382F /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				8C0FD4BD2D225516006C382F /* Networking */,
 				8C0FD4B92D225114006C382F /* Repositories */,
 			);
 			path = Data;
